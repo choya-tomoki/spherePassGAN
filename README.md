@@ -1,1 +1,1 @@
-"# SpherePassGAN" 
+# SpherePassGAN
